@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805749532666",
+    "firebase_url": "https://percobaan-e01c8.firebaseio.com",
+    "project_id": "percobaan-e01c8",
+    "storage_bucket": "percobaan-e01c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805749532666:android:acf5916e815bd4f9c1a643",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805749532666-8np35evm42n5nstqsnj3ueco0qlb31fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCumUtRJZ7ppoCZGCVXhlVzV6fTzmIyHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805749532666-8np35evm42n5nstqsnj3ueco0qlb31fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
